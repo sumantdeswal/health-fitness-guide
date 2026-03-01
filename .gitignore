@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+bmi_log.txt
+calorie_log.txt
+exercise_log.txt
